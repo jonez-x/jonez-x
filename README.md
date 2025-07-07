@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓 Studying MKI @ Reutlingen University<br>🧾 Currently working on ListScan<br>❤️ Typescript, Angular, NodeJS<br>🌱 I’m currently learning Swift and Go
+👨‍🎓 Studying Media Informatic @ Tübingen University<br>🧾 Currently working on ListScan<br>❤️ Typescript, Angular, NodeJS<br>🌱 I’m currently learning Swift and Go
 
 [![](https://visitcount.itsvg.in/api?id=jonez-x&icon=1&color=12)](https://visitcount.itsvg.in)
 
